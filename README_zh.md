@@ -2,13 +2,15 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/Guojc-source/Stock_Monitor?style=social)](https://github.com/Guojc-source/Stock_Monitor)
+[![Stars](https://img.shields.io/github/stars/KAMCHIU-LAB/Stock_Monitor?style=social)](https://github.com/KAMCHIU-LAB/Stock_Monitor)
 
 [English](README.md) | **简体中文**
 
 面向 **美股 / A股 / 港股** 三大市场的量化分析引擎。融合技术面、基本面、历史估值分位、新闻情绪、期权资金流、行业轮动、大盘状态等 **10 个分析维度**,输出结构化评分报告,包含支撑/阻力关键价位、多空信号冲突分析和仓位建议。
 
 **无需 API Key,无需数据库,开箱即用** —— 基于 Python 3.10+ 与 yfinance + akshare。
+
+评分是规则汇总，不是校准后的概率或经验证的收益预测。数据检查范围与方法限制见[数据质量说明](AUDIT.md)。
 
 ## 📸 运行截图
 
@@ -379,6 +381,6 @@ MIT License,详见 [LICENSE](LICENSE)。
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Guojc-source/Stock_Monitor&type=Date)](https://star-history.com/#Guojc-source/Stock_Monitor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=KAMCHIU-LAB/Stock_Monitor&type=Date)](https://star-history.com/#KAMCHIU-LAB/Stock_Monitor&Date)
 
 如果 Stock Monitor 对你的分析有帮助,欢迎点个 ⭐,让更多人发现这个项目。

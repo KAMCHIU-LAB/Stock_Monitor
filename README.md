@@ -2,13 +2,15 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/Guojc-source/Stock_Monitor?style=social)](https://github.com/Guojc-source/Stock_Monitor)
+[![Stars](https://img.shields.io/github/stars/KAMCHIU-LAB/Stock_Monitor?style=social)](https://github.com/KAMCHIU-LAB/Stock_Monitor)
 
 **English** | [简体中文](README_zh.md)
 
 Quantitative analysis engine for **US / A-share / HK equity markets**. Integrates 10 analytical dimensions including technical indicators, fundamental valuation, options flow, news sentiment, sector rotation, and market regime detection. Outputs structured scoring reports with support/resistance levels, signal conflict analysis, and position sizing recommendations.
 
 **No API keys. No database. Zero config** — Python 3.10+ with yfinance + akshare.
+
+Scores are heuristic summaries, not calibrated probabilities or validated return forecasts. See [data quality and method limitations (中文)](AUDIT.md).
 
 ## 📸 Screenshots
 
@@ -375,6 +377,6 @@ This system is for educational and research purposes only. It does not constitut
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Guojc-source/Stock_Monitor&type=Date)](https://star-history.com/#Guojc-source/Stock_Monitor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=KAMCHIU-LAB/Stock_Monitor&type=Date)](https://star-history.com/#KAMCHIU-LAB/Stock_Monitor&Date)
 
 If Stock Monitor helps your analysis, consider giving it a ⭐ — it helps more people find this project.
