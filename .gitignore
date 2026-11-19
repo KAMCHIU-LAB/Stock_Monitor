@@ -21,12 +21,14 @@ env/
 *~
 
 # 项目特有
-.cache/          # 数据缓存（每次运行自动生成）
+# 数据缓存（每次运行自动生成）
+.cache/
 *.json.bak
 
 # === 隐私文件（绝对不要上传）===
-watchlist.json   # ⚠️ 你的自选股持仓！
-watchlist.txt    # ⚠️ 同上
+# 自选股配置及持仓信息
+watchlist.json
+watchlist.txt
 
 # Claude Code 配置（本地配置不上传）
 .claude/
